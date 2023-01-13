@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tryamb Sachan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tryamb&label=Profile%20views&color=0e75b6&style=flat" alt="tryamb" /> </p>
 
-- 🌱 I’m currently learning **Firebase,Restful,Timber API,Android JetPack,Kotlin in Android development**
+<img align="right" alt="coding" width="400" src="https://developer.android.com/static/studio/preview/features/images/live-edit-only-device.gif">
+
+- 🌱 I’m currently learning **Firebase,Restful API,Volley Library,Android JetPack,Kotlin in Android development**
 
 - 💬 Ask me about **Android,Firebase,XML,Kotlin,Glide library,Exo-player**
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Firebase,Restful API,Volley Library,Android JetPack,Kotlin in Android development**
 
-- 💬 Ask me about **Android,Firebase,XML,Kotlin,Glide library,Exo-player**
+- 💬 Ask me about **Android,Cloud Firebase,SQLite,XML,Kotlin,Glide library,Exo-player**
 
 - 📫 How to reach me **trayambsachan2003@gmail.com**
 
